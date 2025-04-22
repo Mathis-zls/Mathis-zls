@@ -52,6 +52,84 @@
 </div>
 
 ###
+# GitHub Tic-Tac-Toe
+
+Play a game of Tic-Tac-Toe right here in my GitHub profile README! Just click on a square to make your move.
+
+## Current Game
+
+**Status:** Game in progress. X's turn!
+
+<table>
+  <tr>
+    <td width="80" height="80" align="center">
+      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C1&body=Just+click+submit+to+make+your+move!">
+        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+      </a>
+    </td>
+    <td width="80" height="80" align="center">
+      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C2&body=Just+click+submit+to+make+your+move!">
+        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+      </a>
+    </td>
+    <td width="80" height="80" align="center">
+      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C3&body=Just+click+submit+to+make+your+move!">
+        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="80" height="80" align="center">
+      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C4&body=Just+click+submit+to+make+your+move!">
+        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+      </a>
+    </td>
+    <td width="80" height="80" align="center">
+      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C5&body=Just+click+submit+to+make+your+move!">
+        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+      </a>
+    </td>
+    <td width="80" height="80" align="center">
+      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C6&body=Just+click+submit+to+make+your+move!">
+        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="80" height="80" align="center">
+      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C7&body=Just+click+submit+to+make+your+move!">
+        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+      </a>
+    </td>
+    <td width="80" height="80" align="center">
+      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C8&body=Just+click+submit+to+make+your+move!">
+        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+      </a>
+    </td>
+    <td width="80" height="80" align="center">
+      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C9&body=Just+click+submit+to+make+your+move!">
+        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+      </a>
+    </td>
+  </tr>
+</table>
+
+## How to Play
+1. Click on any empty square to make your move
+2. Wait for the GitHub Action to process your move (usually a few seconds)
+3. The game updates automatically!
+
+## Reset the Game
+[Click here to reset the game](https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Creset&body=Just+click+submit+to+reset+the+game)
+
+## Game History:
+No moves yet! Be the first to play.
+
+<div align="center">
+<i>This game is powered by GitHub Actions and issues!</i>
+</div>
+
+###
 
 <br clear="both">
 
