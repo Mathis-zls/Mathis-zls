@@ -57,61 +57,61 @@ jobs:
             
             # Create a new blank table
             NEW_TABLE=$(cat <<'EOF'
-<table>
-  <tr>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C1&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C2&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C3&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C4&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C5&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C6&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C7&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C8&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C9&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-  </tr>
-</table>
-EOF
-)
+            <table>
+              <tr>
+                <td width="80" height="80" align="center">
+                  <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C1&body=Just+click+submit+to+make+your+move!">
+                    <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+                  </a>
+                </td>
+                <td width="80" height="80" align="center">
+                  <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C2&body=Just+click+submit+to+make+your+move!">
+                    <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+                  </a>
+                </td>
+                <td width="80" height="80" align="center">
+                  <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C3&body=Just+click+submit+to+make+your+move!">
+                    <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td width="80" height="80" align="center">
+                  <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C4&body=Just+click+submit+to+make+your+move!">
+                    <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+                  </a>
+                </td>
+                <td width="80" height="80" align="center">
+                  <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C5&body=Just+click+submit+to+make+your+move!">
+                    <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+                  </a>
+                </td>
+                <td width="80" height="80" align="center">
+                  <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C6&body=Just+click+submit+to+make+your+move!">
+                    <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td width="80" height="80" align="center">
+                  <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C7&body=Just+click+submit+to+make+your+move!">
+                    <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+                  </a>
+                </td>
+                <td width="80" height="80" align="center">
+                  <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C8&body=Just+click+submit+to+make+your+move!">
+                    <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+                  </a>
+                </td>
+                <td width="80" height="80" align="center">
+                  <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C9&body=Just+click+submit+to+make+your+move!">
+                    <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
+                  </a>
+                </td>
+              </tr>
+            </table>
+            EOF
+            )
             # Replace placeholder values with actual repo info
             NEW_TABLE=$(echo "$NEW_TABLE" | sed "s/OWNER/$REPO_OWNER/g" | sed "s/REPO/$REPO_NAME/g")
             
