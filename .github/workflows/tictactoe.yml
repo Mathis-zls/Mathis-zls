@@ -195,55 +195,55 @@ jobs:
             # Create a bash script to check for win or draw
             CHECK_SCRIPT=$(mktemp)
             cat > $CHECK_SCRIPT << 'EOF'
-#!/bin/bash
-BOARD_FILE=$1
-CURRENT_PLAYER=$2
-
-# Read board state into an array
-mapfile -t BOARD < "$BOARD_FILE"
-
-# Function to check if positions match
-check_win() {
-  local pos1=$1
-  local pos2=$2
-  local pos3=$3
-  
-  # Adjust for 0-based indexing
-  pos1=$((pos1-1))
-  pos2=$((pos2-1))
-  pos3=$((pos3-1))
-  
-  if [[ "${BOARD[$pos1]}" != "blank" && "${BOARD[$pos1]}" == "${BOARD[$pos2]}" && "${BOARD[$pos1]}" == "${BOARD[$pos3]}" ]]; then
-    echo "win"
-    return 0
-  fi
-  return 1
-}
-
-# Check for win conditions
-# Rows
-check_win 1 2 3 && exit 0
-check_win 4 5 6 && exit 0
-check_win 7 8 9 && exit 0
-# Columns
-check_win 1 4 7 && exit 0
-check_win 2 5 8 && exit 0
-check_win 3 6 9 && exit 0
-# Diagonals
-check_win 1 5 9 && exit 0
-check_win 3 5 7 && exit 0
-
-# Check for draw
-if ! grep -q "blank" "$BOARD_FILE"; then
-  echo "draw"
-  exit 0
-fi
-
-# Game continues
-echo "continue"
-exit 0
-EOF
+            #!/bin/bash
+            BOARD_FILE=$1
+            CURRENT_PLAYER=$2
             
+            # Read board state into an array
+            mapfile -t BOARD < "$BOARD_FILE"
+            
+            # Function to check if positions match
+            check_win() {
+              local pos1=$1
+              local pos2=$2
+              local pos3=$3
+              
+              # Adjust for 0-based indexing
+              pos1=$((pos1-1))
+              pos2=$((pos2-1))
+              pos3=$((pos3-1))
+              
+              if [[ "${BOARD[$pos1]}" != "blank" && "${BOARD[$pos1]}" == "${BOARD[$pos2]}" && "${BOARD[$pos1]}" == "${BOARD[$pos3]}" ]]; then
+                echo "win"
+                return 0
+              fi
+              return 1
+            }
+            
+            # Check for win conditions
+            # Rows
+            check_win 1 2 3 && exit 0
+            check_win 4 5 6 && exit 0
+            check_win 7 8 9 && exit 0
+            # Columns
+            check_win 1 4 7 && exit 0
+            check_win 2 5 8 && exit 0
+            check_win 3 6 9 && exit 0
+            # Diagonals
+            check_win 1 5 9 && exit 0
+            check_win 3 5 7 && exit 0
+            
+            # Check for draw
+            if ! grep -q "blank" "$BOARD_FILE"; then
+              echo "draw"
+              exit 0
+            fi
+            
+            # Game continues
+            echo "continue"
+            exit 0
+            EOF
+                        
             chmod +x $CHECK_SCRIPT
             
             # Run the check script
