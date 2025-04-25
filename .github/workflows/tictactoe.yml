@@ -26,7 +26,8 @@ jobs:
           REPO_NAME: ${{ github.repository }}
         run: |
           pip install PyGithub
-          python .github/scripts/main.py
+          cd .github/scripts
+          python main.py
           
       - name: Commit and push updated README
         run: |
