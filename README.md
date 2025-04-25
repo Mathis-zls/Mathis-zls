@@ -54,9 +54,7 @@
 ###
 # GitHub Tic-Tac-Toe
 
-Play a game of Tic-Tac-Toe right here in my GitHub profile README! Just click on a square to make your move.
-
-## Current Game
+Play Tic-Tac-Toe directly on my GitHub profile! Click on any square to make your move.
 
 **Status:** Game in progress. X's turn!
 
@@ -114,21 +112,19 @@ Play a game of Tic-Tac-Toe right here in my GitHub profile README! Just click on
   </tr>
 </table>
 
-## How to Play
-1. Click on any empty square to make your move
-2. Wait for the GitHub Action to process your move (usually a few seconds)
-3. The game updates automatically!
-
-## Reset the Game
-[Click here to reset the game](https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Creset&body=Just+click+submit+to+reset+the+game)
-
 ## Game History:
 No moves yet! Be the first to play.
 
 <div align="center">
-<i>This game is powered by GitHub Actions and issues!</i>
+  <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Creset&body=Just+click+submit+to+reset+the+game">Reset Game</a>
 </div>
 
+## How to Play
+1. Click on any empty square to make your move
+2. The game alternates between X and O players
+3. First player to get three in a row wins!
+4. If all squares are filled with no winner, the game is a draw
+5. Click "Reset Game" to start over
 ###
 
 <br clear="both">
