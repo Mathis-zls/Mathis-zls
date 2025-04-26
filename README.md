@@ -131,7 +131,7 @@ No moves yet! Be the first to play.
 5. If all squares are filled with no winner, the game is a draw
 6. Click "Reset Game" to start over
 ###
-
+##
 <br clear="both">
 
 <picture>
