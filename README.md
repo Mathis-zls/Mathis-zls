@@ -12,7 +12,7 @@ Why Computer Science? Well, I've always loved creating things from scratch and s
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGR5MzF0YjNqOHJidGZ6Zmk5dXZ6YzFmZGhvYTdmdzI1NWl5MGJzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif" height="100">
 </div>
 
-## Languages and Tools
+## 🛠️ Languages and Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
@@ -40,12 +40,12 @@ Why Computer Science? Well, I've always loved creating things from scratch and s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
 </div>
 
-## Stats
+## 🔥 My Stats : 
 
 *Note: Top languages does not indicate my skill, it's a github metric of which languages i have the most code on github.*
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mathis-zls&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathis-zls&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathis-zls&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2 height="150" alt="languages graph"  />
 </div>
 
 ## Reach out to me
@@ -56,7 +56,7 @@ Why Computer Science? Well, I've always loved creating things from scratch and s
 </div>
 
 
-## Lets play a game of Tic-Tac-Toe
+## 🎮 Lets play a game of Tic-Tac-Toe
 
 Play Tic-Tac-Toe directly on my GitHub profile! Click on any square to make your move.
 
