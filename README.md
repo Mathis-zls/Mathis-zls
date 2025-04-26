@@ -3,20 +3,16 @@
 </div>
 
 ###
+I'm a Computer Science student at the Technical University of Applied Sciences Mannheim with a passion for backend development.
+
+Why Computer Science? Well, I've always loved creating things from scratch and solving problems. My journey began with video games—not just playing them, but wanting to understand how they worked and even make my own. 
 
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+<div align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGR5MzF0YjNqOHJidGZ6Zmk5dXZ6YzFmZGhvYTdmdzI1NWl5MGJzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif" height="100">
 </div>
 
-###
-
-
-
-###
+## Languages and Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
@@ -44,15 +40,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
 </div>
 
-###
+## Stats
 
+*Note: Top languages does not indicate my skill, it's a github metric of which languages i have the most code on github.*
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mathis-zls&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathis-zls&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-# GitHub Tic-Tac-Toe
+## Reach out to me
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+
+## Lets play a game of Tic-Tac-Toe
 
 Play Tic-Tac-Toe directly on my GitHub profile! Click on any square to make your move.
 
@@ -112,19 +116,20 @@ Play Tic-Tac-Toe directly on my GitHub profile! Click on any square to make your
   </tr>
 </table>
 
-## Game History:
+### Game History:
 No moves yet! Be the first to play.
 
 <div align="center">
   <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Creset&body=Just+click+submit+to+reset+the+game">Reset Game</a>
 </div>
 
-## How to Play
+### How to Play
 1. Click on any empty square to make your move
-2. The game alternates between X and O players
-3. First player to get three in a row wins!
-4. If all squares are filled with no winner, the game is a draw
-5. Click "Reset Game" to start over
+2. Click create on the github issue to make the move
+3. The game alternates between X and O players
+4. First player to get three in a row wins!
+5. If all squares are filled with no winner, the game is a draw
+6. Click "Reset Game" to start over
 ###
 
 <br clear="both">
