@@ -48,7 +48,7 @@ Why Computer Science? Well, I've always loved creating things from scratch and s
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathis-zls&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=slateorange&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-## Reach out to me
+## 📞 Reach out to me
 
 <div align="left">
   <a target="_blank" href="https://mathis-zls.github.io/Portfolio/" ><img src="https://github.com/user-attachments/assets/559b8e86-b988-4d20-8f38-69deb39492a0" width="52" height="40" alt="linkedin logo"  /></a>
