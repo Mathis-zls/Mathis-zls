@@ -8,10 +8,6 @@ I'm a Computer Science student at the Technical University of Applied Sciences M
 Why Computer Science? Well, I've always loved creating things from scratch and solving problems. My journey began with video games—not just playing them, but wanting to understand how they worked and even make my own. 
 
 
-<div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGR5MzF0YjNqOHJidGZ6Zmk5dXZ6YzFmZGhvYTdmdzI1NWl5MGJzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif" height="100">
-</div>
-
 ## 🛠️ Languages and Tools
 
 <div align="center">
@@ -48,96 +44,5 @@ Why Computer Science? Well, I've always loved creating things from scratch and s
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathis-zls&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=slateorange&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-## 📞 Reach out to me
-
-<div align="left">
-  <a target="_blank" href="https://mathis-zls.github.io/Portfolio/" ><img src="https://github.com/user-attachments/assets/559b8e86-b988-4d20-8f38-69deb39492a0" width="52" height="40" alt="linkedin logo"  /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/mathis-zizlsperger-06236735b/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-</div>
-
-
-## 🎮 Lets play a game of Tic-Tac-Toe
-
-Play Tic-Tac-Toe directly on my GitHub profile! Click on any square to make your move.
-
-**Status:** Game in progress. X's turn!
-
-<table>
-  <tr>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C1&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C2&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C3&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C4&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C5&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C6&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C7&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C8&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-    <td width="80" height="80" align="center">
-      <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Cmove%7C9&body=Just+click+submit+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/main/assets/blank.png" width="50" alt="blank">
-      </a>
-    </td>
-  </tr>
-</table>
-
-### Game History:
-No moves yet! Be the first to play.
-
-<div align="center">
-  <a href="https://github.com/Mathis-zls/Mathis-zls/issues/new?title=ttt%7Creset&body=Just+click+submit+to+reset+the+game">Reset Game</a>
-</div>
-
-### How to Play
-1. Click on any empty square to make your move
-2. Click create on the github issue to make the move
-3. The game alternates between X and O players
-4. First player to get three in a row wins!
-5. If all squares are filled with no winner, the game is a draw
-6. Click "Reset Game" to start over
-###
-##
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mathis-zls/Mathis-zls/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
